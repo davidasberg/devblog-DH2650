@@ -20,3 +20,14 @@ I've been working on making an enemy the past few days, and I used some procedur
 A video of the effect can be seen below
 
 [Procedurally animated enemy](https://youtu.be/8hvAGiVmXIc)
+
+
+# April 6 2023
+
+Today we had our first demo, which, even though in very early stages, got some nice response. People seemed sort of impressed in a sense, and gave some nice feedback on where we should focus our efforts.
+
+In the demo, we had some enemies that could fire at the player. The video below shows the effect.
+
+The next step will be improving upon the player, making the mechanics and combat a lot smoother, as well as implementing the upgrade system and adding some more enemy types.
+
+[Enemies that can shoot at the player](https://youtu.be/fKo1bj95OaA)
