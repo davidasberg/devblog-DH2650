@@ -19,4 +19,4 @@ I've been working on making an enemy the past few days, and I used some procedur
 
 A video of the effect can be seen below
 
-[Procedurally animated enemy] (https://youtu.be/8hvAGiVmXIc)
+[Procedurally animated enemy](https://youtu.be/8hvAGiVmXIc)
