@@ -31,3 +31,18 @@ In the demo, we had some enemies that could fire at the player. The video below 
 The next step will be improving upon the player, making the mechanics and combat a lot smoother, as well as implementing the upgrade system and adding some more enemy types.
 
 [Enemies that can shoot at the player](https://youtu.be/fKo1bj95OaA)
+
+
+# April 18 2023
+
+We had a meeting with Björn yesterday and discussed the game a bit. It was a really insightful meeting, and I believe we learned more about our game from that 20 minute meeting than we did from 2 weeks of discussion.
+
+The last few days I've been working on trying to make the game a little bit more *appealing* and nice looking. 
+
+[Post processing, bloom, tonemapping, and pixelation](https://youtu.be/DFSc6y9NZ0U)
+
+I've also added a new enemy type!
+
+[A new enemy](https://youtu.be/gOlI56vWjTE)
+
+Hopefully we will ramp up in speed a bit in the following weeks :)
