@@ -47,6 +47,9 @@ I've also added a new enemy type!
 
 Hopefully we will ramp up in speed a bit in the following weeks :)
 
-# May 05 2023
+# May 20 2023
 
 The course is nearing its end, and we are finishing up the game, the documents and the website. Sadly, the last few weeks have been really tough and not a lot of progress has been done. I spent the first few weeks working really hard, and making a lot of important progress for the game. Yet, it feels like no one else in the group really did the work they should have done. Then, about two weeks ago, two of our members said they are going *back to China*. We could barely get in contact with them for the first week, despite them saying they were gonna keep in touch and keep working on the game. I'm sad to say that this course would have been a lot more fun if we had more chemistry and worked better within the group. It feels like we've been fighting an uphill battle this entire time.
+
+# May 23 2023
+Despite what I said in the last post, we made some great progress the last few days. We merged an item drop feature which is really cool, and the demo is actually looking pretty good now. We're still missing some audio, like music and sound effects, as well as a proper player model. Since the demo is tomorrow it will be hard to get all of that done, but we'll see how it goes.
