@@ -21,6 +21,8 @@ A video of the effect can be seen below
 
 [Procedurally animated enemy](https://youtu.be/8hvAGiVmXIc)
 
+Sources: [Medium](https://medium.com/codex/creating-procedural-animations-in-unity-c-8c5c2394739d)
+
 
 # April 6 2023
 
@@ -31,6 +33,7 @@ In the demo, we had some enemies that could fire at the player. The video below 
 The next step will be improving upon the player, making the mechanics and combat a lot smoother, as well as implementing the upgrade system and adding some more enemy types.
 
 [Enemies that can shoot at the player](https://youtu.be/fKo1bj95OaA)
+
 
 
 # April 18 2023
@@ -45,7 +48,9 @@ I've also added a new enemy type!
 
 [A new enemy](https://youtu.be/gOlI56vWjTE)
 
-Hopefully we will ramp up in speed a bit in the following weeks :)
+Hopefully we will ramp up in speed a bit in the following weeks.
+
+Sources: [Pixelation](https://medium.com/@elliotbentine/pixelizing-3d-objects-b55ec33328f1)
 
 # May 20 2023
 
